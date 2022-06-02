@@ -1,12 +1,4 @@
 ## Hey 👋, I'm Jonas, also go by SmiteDeluxe, and am a Full-Stack dev (Main skill Frontend), Web3 advocate, innovator and eager learner!  
-  
-
-<a href="https://github.com/SmiteDeluxe" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/SmiteDeluxe" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
 
 <br/> 
 
@@ -23,6 +15,15 @@
   
 
 - 💭 Always striving to understand everything, no black boxes!  
+
+<br />
+
+<a href="https://github.com/SmiteDeluxe" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/SmiteDeluxe" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
 
 <br />
 
