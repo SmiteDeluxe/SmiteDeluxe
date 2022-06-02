@@ -1,4 +1,4 @@
-## Hey 👋, I'm Jonas, also go by SmiteDeluxe
+## Hey 👋 I'm Jonas, I also go by SmiteDeluxe
 
 - 👔  [Minerva](https://www.minerva.market/) Co-Founder & Dev-Lead & Frontend-Dev  
   
