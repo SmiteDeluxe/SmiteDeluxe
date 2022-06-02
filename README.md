@@ -1,7 +1,5 @@
 ## Hey 👋, I'm Jonas, also go by SmiteDeluxe, and am a Full-Stack dev (Main skill Frontend), Web3 advocate, innovator and eager learner!  
 
-<br/> 
-
 - 👔  [Minerva](https://www.minerva.market/) Co-Founder & Dev-Lead & Frontend-Dev  
   
 
