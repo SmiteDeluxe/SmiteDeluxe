@@ -12,7 +12,7 @@
 - ⛓️ Blockchain & Web3 Focus  
   
 
-- 💭 Always striving to understand everything, no black boxes!  
+- 💭 Always striving to understand everything, no black boxes untouched!  
 
 <br />
 
