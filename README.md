@@ -6,7 +6,7 @@
 - 🎓 Computer science at Rheinische Friedrich-Wilhelms-Universität Bonn  
   
 
-- 🌱 Learning smart contract development with Solidity   
+[//]: <> (- 🌱 Learning smart contract development with Solidity   )
   
 
 - ⛓️ Blockchain & Web3 Focus  
