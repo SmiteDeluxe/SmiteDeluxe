@@ -1,6 +1,6 @@
 ## Hey 👋 I'm Jonas, I also go by SmiteDeluxe
 
-- 👔  [Minerva](https://www.minerva.market/) Co-Founder & Dev-Lead & Frontend-Dev  
+- 👔  [Minerva](https://www.minerva.market/) Co-Founder & Dev-Lead & Frontend-Dev (Currently paused)
 
 - 💼 [GraviDAO](https://twitter.com/GraviDAO_) Freelance Backend Dev
 
