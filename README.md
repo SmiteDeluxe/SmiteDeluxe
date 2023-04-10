@@ -2,7 +2,7 @@
 
 - 👔  [Minerva](https://www.minerva.market/) Co-Founder & Dev-Lead & Frontend-Dev (Currently paused)
 
-- 💼 [GraviDAO]([https://twitter.com/GraviDAO_](https://linktr.ee/gravidao)) Freelance Backend Dev
+- 💼 [GraviDAO](https://linktr.ee/gravidao) Freelance Backend Dev
 
 - 🎓 Computer science at Rheinische Friedrich-Wilhelms-Universität Bonn  
   
