@@ -1,7 +1,7 @@
 ## Hey 👋 I'm Jonas, I also go by Smite or Bela
 - ✈️ Digital Nomad
 
-- 👔  [Minerva](https://www.minerva.market/) Co-Founder & CTO & Frontend-Dev (Currently paused)
+- 👔  [Minerva](https://twitter.com/Minerva_Wine) Co-Founder & CTO & Frontend-Dev (Currently paused)
 
 - 💼 [GraviDAO](https://linktr.ee/gravidao) Freelance Backend Dev
 
