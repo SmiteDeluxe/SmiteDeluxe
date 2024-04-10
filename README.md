@@ -3,7 +3,9 @@
 
 - 👔  [Minerva](https://twitter.com/Minerva_Wine) Co-Founder & CTO & Frontend-Dev (Currently paused)
 
-- 💼 [GraviDAO](https://linktr.ee/gravidao) Freelance Backend Dev
+- 💼 [GraviDAO](https://linktr.ee/gravidao) Freelance Backend & Frontend Dev
+  
+- 🔧 [OmList](https://omlist.io/#) Freelance Backend & Devops Dev & Consultant
 
 - 🎓 Computer science at Rheinische Friedrich-Wilhelms-Universität Bonn  
   
