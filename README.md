@@ -7,7 +7,8 @@
   
 - 🔧 [OmList](https://omlist.io/#) Freelance Backend & Devops Dev & Consultant
 
-- 🎓 Computer science at Rheinische Friedrich-Wilhelms-Universität Bonn  
+- 🎓 Computer science at Rheinische Friedrich-Wilhelms-Universität Bonn
+    - Writing a Thesis on Integrated Exploratory Data Analysis for Development Environments
   
 
 [//]: <> (- 🌱 Learning smart contract development with Solidity   )
