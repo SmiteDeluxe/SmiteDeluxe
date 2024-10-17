@@ -1,4 +1,4 @@
-## Hey 👋 I'm Jonas, I also go by Smite or Bela
+## Hey 👋 I'm Jonas, I also go by Bela
 - ✈️ Digital Nomad
 
 - 👔  [Minerva](https://twitter.com/Minerva_Wine) Co-Founder & CTO & Frontend Engineer (Currently paused)
