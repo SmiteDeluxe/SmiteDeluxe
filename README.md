@@ -4,7 +4,7 @@
 
 - 💼 [GraviDAO](https://linktr.ee/gravidao) Contract Backend & Frontend Engineer
   
-- 🔧 [OmList](https://omlist.io/#) Contract Backend & Devops Engineer & Consultant
+- 🔧 [OmList](https://omlist.io/#) Former Contract Backend & Devops Engineer & Consultant
 
 - 🎓 Computer science at Rheinische Friedrich-Wilhelms-Universität Bonn
     - Including scientific research paper on Integrated Exploratory Data Analysis for Development Environments, with [open source tool available](https://github.com/Safe-DS/DSL)
