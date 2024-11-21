@@ -1,5 +1,6 @@
 ## Hey 👋 I'm Jonas, I also go by Bela
-- 💭 Always striving to understand everything, no black boxes untouched!  
+- 💭 Always striving to understand everything, no black boxes untouched!
+- 🔗 [Résumé (Request access)](https://drive.google.com/file/d/17t7ZpThjN5dDcZbDhxJjYZUH_w7g6RrG/view?usp=sharing)
 
 ### Currently
 - 💼 [GraviDAO](https://linktr.ee/gravidao) Full Stack Lead Engineer
