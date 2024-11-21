@@ -1,8 +1,11 @@
 ## Hey 👋 I'm Jonas, I also go by Bela
+- 💭 Always striving to understand everything, no black boxes untouched!  
 
-- 👔  [Minerva](https://twitter.com/Minerva_Wine) Co-Founder & CTO & Frontend Engineer (Currently paused)
-
-- 💼 [GraviDAO](https://linktr.ee/gravidao) Contract Backend & Frontend Engineer
+### Currently
+- 💼 [GraviDAO](https://linktr.ee/gravidao) Full Stack Lead Engineer
+  
+### Formerly
+- 👔  [Minerva](https://twitter.com/Minerva_Wine) Co-Founder & CTO & Frontend Engineer
   
 - 🔧 [OmList](https://omlist.io/#) Former Contract Backend & Devops Engineer & Consultant
 
@@ -10,13 +13,9 @@
     - Including scientific research paper on Integrated Exploratory Data Analysis for Development Environments, with [open source tool available](https://github.com/Safe-DS/DSL)
   
 
-[//]: <> (- 🌱 Learning smart contract development with Solidity   )
+[//]: <> (- 🌱 Learning smart contract development with Solidity   ) 
   
 
-- ⛓️ Blockchain & Web3 Focus  
-  
-
-- 💭 Always striving to understand everything, no black boxes untouched!  
 
 <br />
 
