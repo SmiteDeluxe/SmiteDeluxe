@@ -3,10 +3,11 @@
 - 🔗 [Résumé (Request access)](https://drive.google.com/file/d/17t7ZpThjN5dDcZbDhxJjYZUH_w7g6RrG/view?usp=sharing)
 
 ### Currently
+- ⚡ [WebComputing](https://www.web-computing.de/) Full Stack Engineer
 - 💼 [GraviDAO](https://linktr.ee/gravidao) Full Stack Lead Engineer
   
 ### Formerly
-- 👔  [Minerva](https://twitter.com/Minerva_Wine) Co-Founder & CTO & Frontend Engineer
+- 👔 [Minerva](https://twitter.com/Minerva_Wine) Co-Founder & CTO & Frontend Engineer
   
 - 🔧 [OmList](https://omlist.io/#) Contract Backend & Devops Engineer & Consultant
 
