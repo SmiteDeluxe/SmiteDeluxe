@@ -1,6 +1,6 @@
 ## Hey 👋 I'm Jonas, I also go by Bela
 - 💭 Always striving to understand everything, no black boxes untouched!
-- 🔗 [Résumé (Request access)](https://drive.google.com/file/d/17t7ZpThjN5dDcZbDhxJjYZUH_w7g6RrG/view?usp=sharing)
+- 🔗 [Résumé (Request access)](https://drive.google.com/file/d/1SkcvijL3TZAqXWgm6cCbvct7ffZdw32p/view?usp=sharing)
 
 ### Currently
 - ⚡ [WebComputing](https://www.web-computing.de/) Full Stack Engineer
